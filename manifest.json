@@ -16,6 +16,7 @@
     "scripts": [
       "/vendor/jquery.js",
       "/vendor/crypto-js.js",
+      "/vendor/moment.js",
       "/js/ktr.js",
       "/js/background.js"
     ],
@@ -44,6 +45,7 @@
   "permissions": [
     "https://www.4628.jp/*",
     "https://www.e4628.jp/*",
-    "notifications"
+    "notifications",
+    "alarms"
   ]
 }
